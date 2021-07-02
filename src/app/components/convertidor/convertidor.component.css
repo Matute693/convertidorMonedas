@@ -1,0 +1,11 @@
+.form-control {
+    cursor: pointer;
+}
+.badge {
+    font-size: 1.3rem;
+}
+label {
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: #fff;
+}
